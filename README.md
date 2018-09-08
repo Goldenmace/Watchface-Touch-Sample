@@ -4,24 +4,4 @@ Repository for how to handle touch events on the watchfaces using @onTapCommand 
 
 ![1]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [1]: ./sample_image.png
